@@ -1,0 +1,15 @@
+D:\Personal\CricketApp\Backend\Tournament.Application\bin\Debug\net8.0\Tournament.Application.deps.json
+D:\Personal\CricketApp\Backend\Tournament.Application\bin\Debug\net8.0\Tournament.Application.dll
+D:\Personal\CricketApp\Backend\Tournament.Application\bin\Debug\net8.0\Tournament.Application.pdb
+D:\Personal\CricketApp\Backend\Tournament.Application\bin\Debug\net8.0\Tournament.Domain.dll
+D:\Personal\CricketApp\Backend\Tournament.Application\bin\Debug\net8.0\Tournament.Domain.pdb
+D:\Personal\CricketApp\Backend\Tournament.Application\obj\Debug\net8.0\Tournament.Application.csproj.AssemblyReference.cache
+D:\Personal\CricketApp\Backend\Tournament.Application\obj\Debug\net8.0\Tournament.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\CricketApp\Backend\Tournament.Application\obj\Debug\net8.0\Tournament.Application.AssemblyInfoInputs.cache
+D:\Personal\CricketApp\Backend\Tournament.Application\obj\Debug\net8.0\Tournament.Application.AssemblyInfo.cs
+D:\Personal\CricketApp\Backend\Tournament.Application\obj\Debug\net8.0\Tournament.Application.csproj.CoreCompileInputs.cache
+D:\Personal\CricketApp\Backend\Tournament.Application\obj\Debug\net8.0\Tourname.0C8A7607.Up2Date
+D:\Personal\CricketApp\Backend\Tournament.Application\obj\Debug\net8.0\Tournament.Application.dll
+D:\Personal\CricketApp\Backend\Tournament.Application\obj\Debug\net8.0\refint\Tournament.Application.dll
+D:\Personal\CricketApp\Backend\Tournament.Application\obj\Debug\net8.0\Tournament.Application.pdb
+D:\Personal\CricketApp\Backend\Tournament.Application\obj\Debug\net8.0\ref\Tournament.Application.dll

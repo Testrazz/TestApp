@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Personal\\CricketApp\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8FF304-0B3B-4A51-B082-2D2C1AA5D260}|Tournament.Api\\Tournament.Api.csproj|d:\\personal\\cricketapp\\backend\\tournament.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8FF304-0B3B-4A51-B082-2D2C1AA5D260}|Tournament.Api\\Tournament.Api.csproj|solutionrelative:tournament.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8FF304-0B3B-4A51-B082-2D2C1AA5D260}|Tournament.Api\\Tournament.Api.csproj|d:\\personal\\cricketapp\\backend\\tournament.api\\controllers\\tournamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8FF304-0B3B-4A51-B082-2D2C1AA5D260}|Tournament.Api\\Tournament.Api.csproj|solutionrelative:tournament.api\\controllers\\tournamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8FF304-0B3B-4A51-B082-2D2C1AA5D260}|Tournament.Api\\Tournament.Api.csproj|d:\\personal\\cricketapp\\backend\\tournament.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD8FF304-0B3B-4A51-B082-2D2C1AA5D260}|Tournament.Api\\Tournament.Api.csproj|solutionrelative:tournament.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8FF304-0B3B-4A51-B082-2D2C1AA5D260}|Tournament.Api\\Tournament.Api.csproj|d:\\personal\\cricketapp\\backend\\tournament.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD8FF304-0B3B-4A51-B082-2D2C1AA5D260}|Tournament.Api\\Tournament.Api.csproj|solutionrelative:tournament.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C16C0BA-81BE-4C68-9CDD-0CDF3CE37300}|Tournament.Domain\\Tournament.Domain.csproj|d:\\personal\\cricketapp\\backend\\tournament.domain\\tournament.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C16C0BA-81BE-4C68-9CDD-0CDF3CE37300}|Tournament.Domain\\Tournament.Domain.csproj|solutionrelative:tournament.domain\\tournament.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860F1D59-A730-45D6-B559-7DD83B70D2D6}|Tournament.Infrastructure\\Tournament.Infrastructure.csproj|d:\\personal\\cricketapp\\backend\\tournament.infrastructure\\repositories\\tournamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860F1D59-A730-45D6-B559-7DD83B70D2D6}|Tournament.Infrastructure\\Tournament.Infrastructure.csproj|solutionrelative:tournament.infrastructure\\repositories\\tournamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860F1D59-A730-45D6-B559-7DD83B70D2D6}|Tournament.Infrastructure\\Tournament.Infrastructure.csproj|d:\\personal\\cricketapp\\backend\\tournament.infrastructure\\tournament.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{860F1D59-A730-45D6-B559-7DD83B70D2D6}|Tournament.Infrastructure\\Tournament.Infrastructure.csproj|solutionrelative:tournament.infrastructure\\tournament.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861C5B3-B816-46AC-AAC6-77A4C3AB5A66}|Tournament.Application\\Tournament.Application.csproj|d:\\personal\\cricketapp\\backend\\tournament.application\\queries\\gettournamentbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861C5B3-B816-46AC-AAC6-77A4C3AB5A66}|Tournament.Application\\Tournament.Application.csproj|solutionrelative:tournament.application\\queries\\gettournamentbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861C5B3-B816-46AC-AAC6-77A4C3AB5A66}|Tournament.Application\\Tournament.Application.csproj|d:\\personal\\cricketapp\\backend\\tournament.application\\commands\\createtournamentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861C5B3-B816-46AC-AAC6-77A4C3AB5A66}|Tournament.Application\\Tournament.Application.csproj|solutionrelative:tournament.application\\commands\\createtournamentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861C5B3-B816-46AC-AAC6-77A4C3AB5A66}|Tournament.Application\\Tournament.Application.csproj|d:\\personal\\cricketapp\\backend\\tournament.application\\interfaces\\itournamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861C5B3-B816-46AC-AAC6-77A4C3AB5A66}|Tournament.Application\\Tournament.Application.csproj|solutionrelative:tournament.application\\interfaces\\itournamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C16C0BA-81BE-4C68-9CDD-0CDF3CE37300}|Tournament.Domain\\Tournament.Domain.csproj|d:\\personal\\cricketapp\\backend\\tournament.domain\\entities\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C16C0BA-81BE-4C68-9CDD-0CDF3CE37300}|Tournament.Domain\\Tournament.Domain.csproj|solutionrelative:tournament.domain\\entities\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861C5B3-B816-46AC-AAC6-77A4C3AB5A66}|Tournament.Application\\Tournament.Application.csproj|d:\\personal\\cricketapp\\backend\\tournament.application\\dtos\\tournamentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861C5B3-B816-46AC-AAC6-77A4C3AB5A66}|Tournament.Application\\Tournament.Application.csproj|solutionrelative:tournament.application\\dtos\\tournamentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861C5B3-B816-46AC-AAC6-77A4C3AB5A66}|Tournament.Application\\Tournament.Application.csproj|d:\\personal\\cricketapp\\backend\\tournament.application\\queries\\gettournamentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861C5B3-B816-46AC-AAC6-77A4C3AB5A66}|Tournament.Application\\Tournament.Application.csproj|solutionrelative:tournament.application\\queries\\gettournamentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8861C5B3-B816-46AC-AAC6-77A4C3AB5A66}|Tournament.Application\\Tournament.Application.csproj|d:\\personal\\cricketapp\\backend\\tournament.application\\commands\\createtournamentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8861C5B3-B816-46AC-AAC6-77A4C3AB5A66}|Tournament.Application\\Tournament.Application.csproj|solutionrelative:tournament.application\\commands\\createtournamentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860F1D59-A730-45D6-B559-7DD83B70D2D6}|Tournament.Infrastructure\\Tournament.Infrastructure.csproj|d:\\personal\\cricketapp\\backend\\tournament.infrastructure\\persistence\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860F1D59-A730-45D6-B559-7DD83B70D2D6}|Tournament.Infrastructure\\Tournament.Infrastructure.csproj|solutionrelative:tournament.infrastructure\\persistence\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860F1D59-A730-45D6-B559-7DD83B70D2D6}|Tournament.Infrastructure\\Tournament.Infrastructure.csproj|d:\\personal\\cricketapp\\backend\\tournament.infrastructure\\persistence\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860F1D59-A730-45D6-B559-7DD83B70D2D6}|Tournament.Infrastructure\\Tournament.Infrastructure.csproj|solutionrelative:tournament.infrastructure\\persistence\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Personal\\CricketApp\\Backend\\Tournament.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Tournament.Api\\appsettings.Development.json",
+              "ToolTip": "D:\\Personal\\CricketApp\\Backend\\Tournament.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Tournament.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T13:28:52.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Personal\\CricketApp\\Backend\\Tournament.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Tournament.Api\\appsettings.json",
+              "ToolTip": "D:\\Personal\\CricketApp\\Backend\\Tournament.Api\\appsettings.json",
+              "RelativeToolTip": "Tournament.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T13:27:21.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TournamentController.cs",
+              "DocumentMoniker": "D:\\Personal\\CricketApp\\Backend\\Tournament.Api\\Controllers\\TournamentController.cs",
+              "RelativeDocumentMoniker": "Tournament.Api\\Controllers\\TournamentController.cs",
+              "ToolTip": "D:\\Personal\\CricketApp\\Backend\\Tournament.Api\\Controllers\\TournamentController.cs",
+              "RelativeToolTip": "Tournament.Api\\Controllers\\TournamentController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:42:21.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\CricketApp\\Backend\\Tournament.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Tournament.Api\\Program.cs",
+              "ToolTip": "D:\\Personal\\CricketApp\\Backend\\Tournament.Api\\Program.cs",
+              "RelativeToolTip": "Tournament.Api\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAASwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:37:57.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TournamentRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\CricketApp\\Backend\\Tournament.Infrastructure\\Repositories\\TournamentRepository.cs",
+              "RelativeDocumentMoniker": "Tournament.Infrastructure\\Repositories\\TournamentRepository.cs",
+              "ToolTip": "D:\\Personal\\CricketApp\\Backend\\Tournament.Infrastructure\\Repositories\\TournamentRepository.cs",
+              "RelativeToolTip": "Tournament.Infrastructure\\Repositories\\TournamentRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvx4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:28:35.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetTournamentByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\Personal\\CricketApp\\Backend\\Tournament.Application\\Queries\\GetTournamentByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Tournament.Application\\Queries\\GetTournamentByIdQueryHandler.cs",
+              "ToolTip": "D:\\Personal\\CricketApp\\Backend\\Tournament.Application\\Queries\\GetTournamentByIdQueryHandler.cs",
+              "RelativeToolTip": "Tournament.Application\\Queries\\GetTournamentByIdQueryHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvyUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:24:56.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateTournamentCommandHandler.cs",
+              "DocumentMoniker": "D:\\Personal\\CricketApp\\Backend\\Tournament.Application\\Commands\\CreateTournamentCommandHandler.cs",
+              "RelativeDocumentMoniker": "Tournament.Application\\Commands\\CreateTournamentCommandHandler.cs",
+              "ToolTip": "D:\\Personal\\CricketApp\\Backend\\Tournament.Application\\Commands\\CreateTournamentCommandHandler.cs",
+              "RelativeToolTip": "Tournament.Application\\Commands\\CreateTournamentCommandHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:23:11.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TournamentDto.cs",
+              "DocumentMoniker": "D:\\Personal\\CricketApp\\Backend\\Tournament.Application\\DTOs\\TournamentDto.cs",
+              "RelativeDocumentMoniker": "Tournament.Application\\DTOs\\TournamentDto.cs",
+              "ToolTip": "D:\\Personal\\CricketApp\\Backend\\Tournament.Application\\DTOs\\TournamentDto.cs",
+              "RelativeToolTip": "Tournament.Application\\DTOs\\TournamentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T10:15:39.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITournamentRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\CricketApp\\Backend\\Tournament.Application\\Interfaces\\ITournamentRepository.cs",
+              "RelativeDocumentMoniker": "Tournament.Application\\Interfaces\\ITournamentRepository.cs",
+              "ToolTip": "D:\\Personal\\CricketApp\\Backend\\Tournament.Application\\Interfaces\\ITournamentRepository.cs",
+              "RelativeToolTip": "Tournament.Application\\Interfaces\\ITournamentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T10:13:53.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tournament.Domain",
+              "DocumentMoniker": "D:\\Personal\\CricketApp\\Backend\\Tournament.Domain\\Tournament.Domain.csproj",
+              "RelativeDocumentMoniker": "Tournament.Domain\\Tournament.Domain.csproj",
+              "ToolTip": "D:\\Personal\\CricketApp\\Backend\\Tournament.Domain\\Tournament.Domain.csproj",
+              "RelativeToolTip": "Tournament.Domain\\Tournament.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-31T10:06:43.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetTournamentByIdQuery.cs",
+              "DocumentMoniker": "D:\\Personal\\CricketApp\\Backend\\Tournament.Application\\Queries\\GetTournamentByIdQuery.cs",
+              "RelativeDocumentMoniker": "Tournament.Application\\Queries\\GetTournamentByIdQuery.cs",
+              "ToolTip": "D:\\Personal\\CricketApp\\Backend\\Tournament.Application\\Queries\\GetTournamentByIdQuery.cs",
+              "RelativeToolTip": "Tournament.Application\\Queries\\GetTournamentByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T10:39:55.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tournament.cs",
+              "DocumentMoniker": "D:\\Personal\\CricketApp\\Backend\\Tournament.Domain\\Entities\\Tournament.cs",
+              "RelativeDocumentMoniker": "Tournament.Domain\\Entities\\Tournament.cs",
+              "ToolTip": "D:\\Personal\\CricketApp\\Backend\\Tournament.Domain\\Entities\\Tournament.cs",
+              "RelativeToolTip": "Tournament.Domain\\Entities\\Tournament.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T10:07:19.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tournament.Infrastructure",
+              "DocumentMoniker": "D:\\Personal\\CricketApp\\Backend\\Tournament.Infrastructure\\Tournament.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Tournament.Infrastructure\\Tournament.Infrastructure.csproj",
+              "ToolTip": "D:\\Personal\\CricketApp\\Backend\\Tournament.Infrastructure\\Tournament.Infrastructure.csproj",
+              "RelativeToolTip": "Tournament.Infrastructure\\Tournament.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-31T09:56:47.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateTournamentCommand.cs",
+              "DocumentMoniker": "D:\\Personal\\CricketApp\\Backend\\Tournament.Application\\Commands\\CreateTournamentCommand.cs",
+              "RelativeDocumentMoniker": "Tournament.Application\\Commands\\CreateTournamentCommand.cs",
+              "ToolTip": "D:\\Personal\\CricketApp\\Backend\\Tournament.Application\\Commands\\CreateTournamentCommand.cs",
+              "RelativeToolTip": "Tournament.Application\\Commands\\CreateTournamentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T10:38:21.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SqlConnectionFactory.cs",
+              "DocumentMoniker": "D:\\Personal\\CricketApp\\Backend\\Tournament.Infrastructure\\Persistence\\SqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Tournament.Infrastructure\\Persistence\\SqlConnectionFactory.cs",
+              "ToolTip": "D:\\Personal\\CricketApp\\Backend\\Tournament.Infrastructure\\Persistence\\SqlConnectionFactory.cs",
+              "RelativeToolTip": "Tournament.Infrastructure\\Persistence\\SqlConnectionFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T10:00:21.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDbConnectionFactory.cs",
+              "DocumentMoniker": "D:\\Personal\\CricketApp\\Backend\\Tournament.Infrastructure\\Persistence\\IDbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Tournament.Infrastructure\\Persistence\\IDbConnectionFactory.cs",
+              "ToolTip": "D:\\Personal\\CricketApp\\Backend\\Tournament.Infrastructure\\Persistence\\IDbConnectionFactory.cs",
+              "RelativeToolTip": "Tournament.Infrastructure\\Persistence\\IDbConnectionFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:57:45.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+D:\Personal\CricketApp\Backend\Tournament.Domain\bin\Debug\net8.0\Tournament.Domain.deps.json
+D:\Personal\CricketApp\Backend\Tournament.Domain\bin\Debug\net8.0\Tournament.Domain.dll
+D:\Personal\CricketApp\Backend\Tournament.Domain\bin\Debug\net8.0\Tournament.Domain.pdb
+D:\Personal\CricketApp\Backend\Tournament.Domain\obj\Debug\net8.0\Tournament.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\CricketApp\Backend\Tournament.Domain\obj\Debug\net8.0\Tournament.Domain.AssemblyInfoInputs.cache
+D:\Personal\CricketApp\Backend\Tournament.Domain\obj\Debug\net8.0\Tournament.Domain.AssemblyInfo.cs
+D:\Personal\CricketApp\Backend\Tournament.Domain\obj\Debug\net8.0\Tournament.Domain.csproj.CoreCompileInputs.cache
+D:\Personal\CricketApp\Backend\Tournament.Domain\obj\Debug\net8.0\Tournament.Domain.dll
+D:\Personal\CricketApp\Backend\Tournament.Domain\obj\Debug\net8.0\refint\Tournament.Domain.dll
+D:\Personal\CricketApp\Backend\Tournament.Domain\obj\Debug\net8.0\Tournament.Domain.pdb
+D:\Personal\CricketApp\Backend\Tournament.Domain\obj\Debug\net8.0\ref\Tournament.Domain.dll
